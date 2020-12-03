@@ -1,0 +1,24 @@
+{
+  "name": "app.grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "dev": "nodemon -e hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkosakkos/app.grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkosakkos/app.grid/issues"
+  },
+  "homepage": "https://github.com/erkosakkos/app.grid#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
